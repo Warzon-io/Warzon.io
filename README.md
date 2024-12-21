@@ -1,2 +1,0 @@
-# Warzon.io
-Game Directory
